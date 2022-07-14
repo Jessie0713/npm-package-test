@@ -1,6 +1,6 @@
 {
   "name": "@jessie0713/test",
-  "version": "1.0.2",
+  "version": "1.0.3",
   "description": "practice making npm package",
   "main": "index.js",
   "scripts": {
