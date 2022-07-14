@@ -1,0 +1,23 @@
+{
+  "name": "@jessie0713/test",
+  "version": "1.0.0",
+  "description": "practice making npm package",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Jessie0713/npm-package-test.git"
+  },
+  "keywords": [
+    "hello",
+    "world"
+  ],
+  "author": "jessie",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Jessie0713/npm-package-test/issues"
+  },
+  "homepage": "https://github.com/Jessie0713/npm-package-test#readme"
+}
