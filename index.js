@@ -1,9 +1,9 @@
 function hello(string) {
-  return string + '再撐一下，工作加油，運氣爆棚'
+  return string + '你好'
 }
 
-function tired() {
-  return '加油，財富自由衝衝衝'
+function hungry() {
+  return '肚子餓了'
 }
 
 module.exports.hello = hello
