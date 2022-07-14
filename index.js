@@ -7,4 +7,4 @@ function hungry() {
 }
 
 module.exports.hello = hello
-module.exports.tired = tired
+module.exports.tired = hungry
